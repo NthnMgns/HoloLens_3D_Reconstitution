@@ -12,7 +12,7 @@ Reconstitution 3D d'objet à partir de l'HoloLens
 
 ### Installation
 
-- Télécharger la branche mrtk_development 
+- Télécharger la branche mrtk_development : https://github.com/microsoft/MixedRealityToolkit-Unity
 - Dé-zipper
 - Ouvrir avec Unity 
 
