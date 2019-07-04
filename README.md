@@ -14,6 +14,6 @@ Sur les branches VulcanTechnologies et MixedRealityToolkit vous trouverez les ou
 
 Vous retrouverez l'avancement du projet
 
-## Contruire
+## Construire
 
 Tuto : https://docs.microsoft.com/fr-fr/windows/mixed-reality/holograms-100
