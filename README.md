@@ -4,6 +4,8 @@ Reconstitution 3D d'objet à partir de l'HoloLens
 
 ## Mixed Reality Toolkit
 
+Récupération du spatial mapping
+
 ### Required Software :
 
 - Unity 18.4.x (!!!)
