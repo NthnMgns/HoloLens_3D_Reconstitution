@@ -8,8 +8,12 @@ Reconstitution 3D d'objet à partir de l'HoloLens
 
 ## Branches VulcanTechnologies et MixedRealityToolkit
 
-Sur les branches VulcanTechnologies et MixedRealityToolkit vous trouverez les outils pour récupérer les fichiers d'origine des deux plugins
+Sur les branches VulcanTechnologies et MixedRealityToolkit vous trouverez les outils pour récupérer les fichiers d'origine des deux plugins et les modifications que j'ai apporté.
 
 ## Master et autres branches
 
 Vous retrouverez l'avancement du projet
+
+## Contruire
+
+Tuto : https://docs.microsoft.com/fr-fr/windows/mixed-reality/holograms-100
