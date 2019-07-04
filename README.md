@@ -12,3 +12,11 @@ Suivre les étapes de : https://github.com/VulcanTechnologies/HoloLensCameraStre
 A faire également : 
 
 ![](Tuto.png)
+
+## Avancement
+
+### V0
+
+- Projecte en temps réel l'image de la caméra sur l'environnement. L'image se superpose bien avec l'environnement.
+- A chaque clic, l'image est enregistré dans un fichier .obj (la direction des pixels est correcte, il manque leur profondeur pour construire l'objet 3D de l'image). 
+- Une fois l'image enregistrée, un rayon est créé afin de repérer les endroits où l'on a déjà capturé des images.
