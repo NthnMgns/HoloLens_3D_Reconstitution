@@ -8,3 +8,7 @@ Récupération du flux, de la position et orientation de la caméra RGB.
 ## Installation 
 
 Suivre les étapes de : https://github.com/VulcanTechnologies/HoloLensCameraStream
+
+A faire également : 
+
+![](Tuto.png)
