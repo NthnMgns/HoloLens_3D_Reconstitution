@@ -32,3 +32,10 @@ A faire également :
 - Avec le raycast obtention de la distance de la profondeur
 - Le raycast est maintenant sensible uniquement au spatial mapping et plus aux élèments parasites (caméra, mesh en tout genre)
 - Résultat cohérent
+
+### V3 
+
+- Récupération du point d'intersection pour chaque pixel
+- Couleur + coordonnées X Y Z de chaque pixel nous donne un .obj
+- Prendre plusieurs photo pour meilleur résultat
+- Processus assez long (quelques dizaines de seconde)
