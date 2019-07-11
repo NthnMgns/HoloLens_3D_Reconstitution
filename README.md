@@ -1,19 +1,11 @@
-# HoloLens_3D_Reconstitution
-Reconstitution 3D d'objet à partir de l'HoloLens
+# Tracking d'objet
 
-## Démarche
+## Vuforia
 
-- Reprise des plugins HoloLensCameraStream pour Unity (https://github.com/VulcanTechnologies/HoloLensCameraStream) et des outils MRTK mis en place par Microsoft (https://github.com/microsoft/MixedRealityToolkit-Unity)
-- Mélange de ces plugins pour extraire des fichiers 3D colorés .obj de l'environnement.
+- Vuforia est une société spécialisé dans l'AR qui a développé des algorithmes capables de repérer un objet dans l'espace connaissant son modèle 3D. Une fois l'objet repéré, un tracking se fait pour suivre l'objet en quasi temps réel.
 
-## Branches VulcanTechnologies et MixedRealityToolkit
+- Découverte de cette solution technique suite à la lecture d'un article sur l'utilisation de l'HoloLens dans le domaine médical : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6222243/
 
-Sur les branches VulcanTechnologies et MixedRealityToolkit vous trouverez les outils pour récupérer les fichiers d'origine des deux plugins et les modifications que j'ai apporté.
+## TrackingSouris
 
-## Master et autres branches
-
-Vous retrouverez l'avancement du projet
-
-## Construire
-
-Tuto : https://docs.microsoft.com/fr-fr/windows/mixed-reality/holograms-100
+Premier test réalisé avec un modèle de souris d'ordinateur. Le modèle 3D de la souris était légèrement différent de la souris réelle pourtant les lunettes arrivent à repérer l'objet et à superposer assez proprement l'objet réel et virtuel. 
